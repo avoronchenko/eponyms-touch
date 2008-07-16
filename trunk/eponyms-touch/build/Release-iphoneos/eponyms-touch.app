@@ -1,1 +1,0 @@
-/Users/pp/Programming/Cocoa/eponyms-touch/build/UninstalledProducts/eponyms-touch.app
