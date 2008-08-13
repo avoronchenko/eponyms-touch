@@ -1,5 +1,21 @@
 #summary The Main Page
+#labels Featured
 
-= Eponyms for the iPhone =
+= Eponyms =
 
-Coming up...
+This Application brings the beautiful eponym database from _Andrew J. Yee_ (http://www.eponyms.net/) to your iPhone or iPod touch.
+The database currently contains *more than 1'600 medical eponyms* and is updated from time to time. The app will be able to download updated eponyms without having to update the whole application.
+
+You can browse all eponyms or only eponyms of a given category, and there is live searching. Use the app in portrait or landscape mode as you wish.
+
+Due to Apples policy, the application is only downloadable from the *iTunes Store*. There will be two versions, which are identical down to the code. One will be available for 2 US Dollars and the other one - the Student Edition - for free. Please do only download the free version when you still are a student.
+
+== Links ==
+
+You might want to take a look at the [Main Wiki] and the [Roadmap].
+
+
+== Screenshots ==
+http://eponyms-touch.googlecode.com/files/Screenshot_rc1_list.png
+http://eponyms-touch.googlecode.com/files/Screenshot_rc1_search.png
+http://eponyms-touch.googlecode.com/files/Screenshot_rc1_eponym.png
