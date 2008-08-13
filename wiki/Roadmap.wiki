@@ -1,0 +1,27 @@
+#labels Phase-Design
+#The roadmap with planned features for future releases
+
+= Roadmap =
+
+The ideas of how to improve eponyms keep coming in, and of course I'll include the best and 
+reasonable ones in possible future updates. The following list is always work in progress, features may be pushed around or be dropped again.
+
+
+Note that _italic_ items are considered useful, but have to be further evaluated first. Items that have been ~~striked through~~ have been dropped *or* moved to another release
+
+
+== 1.1 ==
+
+  * Spelled-out category names
+  * Starring/Flagging eponyms
+  * Monthly auto-check for new eponyms
+
+
+== 1.2 ==
+
+  * _Fulltext search_ (currently, only the title is being searched)
+
+
+== x.x ==
+
+  * _German translation_
