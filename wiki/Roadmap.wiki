@@ -7,7 +7,7 @@ The ideas of how to improve eponyms keep coming in, and of course I'll include t
 reasonable ones in possible future updates. The following list is always work in progress, features may be pushed around or be dropped again.
 
 
-Note that _italic_ items are considered useful, but have to be further evaluated first. Items that have been ~~striked through~~ have been dropped *or* moved to another release
+Note that _italic_ items are considered useful, but have to be further evaluated first. Items that have been ~~striked through~~ have been dropped *or* moved to another release. Please use the comment function to suggest other features.
 
 
 == 1.1 ==
