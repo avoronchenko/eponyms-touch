@@ -12,7 +12,7 @@ Due to Apples policy, the application is only downloadable from the *iTunes Stor
 
 == Links ==
 
-You might want to take a look at the [Main Wiki] and the [Roadmap].
+You might want to take a look at the [Main Wiki] and the [Roadmap]. For things long done, check the [History].
 
 
 == Screenshots ==
