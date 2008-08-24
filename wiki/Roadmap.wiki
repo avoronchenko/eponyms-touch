@@ -13,7 +13,8 @@ Note that _italic_ items are considered useful, but have to be further evaluated
 == 1.1 ==
 
   * Spelled-out category names
-  * Starring/Flagging eponyms
+  * Recent eponyms list (r18)
+  * Starring eponyms (r18)
   * Monthly auto-check for new eponyms
 
 
