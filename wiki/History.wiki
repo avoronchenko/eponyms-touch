@@ -5,7 +5,7 @@ See a log of the more important events of this project.
 
 
 == August 2008 ==
-
+  * August 28: *Uploaded new eponyms*
   * August 17: *Uploaded new eponyms*, tap "Check for Eponym Updates" and then download the new eponyms
   * August 6: _Eponyms (for students)_ *1.0.1* (r12) is available in the iTunes Store
   * August 3: _Eponyms_ *1.0* (r12) is available in the iTunes Store
