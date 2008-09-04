@@ -12,10 +12,10 @@ Note that _italic_ items are considered useful, but have to be further evaluated
 
 == 1.1 ==
 
-  * Spelled-out category names
+  * Spelled-out category names (r23)
   * Recent eponyms list (r18)
   * Starring eponyms (r18)
-  * Monthly auto-check for new eponyms
+  * Monthly auto-check for new eponyms (r23)
 
 
 == 1.2 ==
