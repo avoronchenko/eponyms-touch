@@ -16,11 +16,7 @@ Note that _italic_ items are considered useful, but have to be further evaluated
   * Recent eponyms list (r18)
   * Starring eponyms (r18)
   * Monthly auto-check for new eponyms (r23)
-
-
-== 1.2 ==
-
-  * _Fulltext search_ (currently, only the title is being searched)
+  * Fulltext search (currently only the title is being searched) (r28)
 
 
 == x.x ==
