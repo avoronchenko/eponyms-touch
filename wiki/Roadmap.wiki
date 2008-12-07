@@ -19,6 +19,11 @@ Note that _italic_ items are considered useful, but have to be further evaluated
   * Fulltext search (currently only the title is being searched) (r28)
 
 
+== 1.2 ==
+
+  * Acknowledgments in the about pane
+
+
 == x.x ==
 
-  * _German translation_
+  * _German translation_ (in the works)
