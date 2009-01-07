@@ -12,18 +12,15 @@ Note that _italic_ items are considered useful, but have to be further evaluated
 
 == 1.1 ==
 
-  * Spelled-out category names (r23)
-  * Recent eponyms list (r18)
-  * Starring eponyms (r18)
-  * Monthly auto-check for new eponyms (r23)
   * Fulltext search (currently only the title is being searched) (r28)
-
-
-== 1.2 ==
-
-  * Acknowledgments in the about pane
+  * Spelled-out category names (r23)
+  * Starring eponyms (r18)
+  * Recent eponyms list (r18)
+  * Monthly auto-check for new eponyms (r23)
+  * MUCH better updater (r32)
+  * Acknowledgments in the about pane (r32)
 
 
 == x.x ==
 
-  * _German translation_ (in the works)
+  * _German translation_ (in the works!)
