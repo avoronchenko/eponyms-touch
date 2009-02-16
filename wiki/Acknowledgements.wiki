@@ -10,6 +10,7 @@ Thank you for suggestions!
  *	Lori	Daniels
  *	Philip	Goodman
  *	Niall	Herity
+ * Seppo Hietanen
  *	Patrick T.	Lee
  *	Thomas	Mätzsch
  *	John	Murnick
