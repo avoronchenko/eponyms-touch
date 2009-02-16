@@ -2,19 +2,19 @@
 #thank you for suggestions!
 
 = Acknowledgements =
-
-Andrea	Bersano
-Daniel	Blanchard
-Russell	Brunet
-Charles	Cusumano
-Lori	Daniels
-Philip	Goodman
-Niall	Herity
-Patrick T.	Lee
-Thomas	Mätzsch
-John	Murnick
-James	Noble
-Adam	Paley
-Michael	Propper
-Mathias	Tschopp
-Jeffrey L.	Winters
+ *	Robert	Black
+ *	Andrea	Bersano
+ *	Daniel	Blanchard
+ *	Russell	Brunet
+ *	Charles	Cusumano
+ *	Lori	Daniels
+ *	Philip	Goodman
+ *	Niall	Herity
+ *	Patrick T.	Lee
+ *	Thomas	Mätzsch
+ *	John	Murnick
+ *	James	Noble
+ *	Adam	Paley
+ *	Michael	Propper
+ *	Mathias	Tschopp
+ *	Jeffrey L.	Winters
