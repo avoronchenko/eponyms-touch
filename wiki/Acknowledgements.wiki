@@ -1,5 +1,5 @@
 #labels Featured
-#thank you for suggestions!
+Thank you for suggestions!
 
 = Acknowledgements =
  *	Robert	Black
