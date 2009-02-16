@@ -3,4 +3,18 @@
 
 = Acknowledgements =
 
-Lori Daniels
+Andrea	Bersano
+Daniel	Blanchard
+Russell	Brunet
+Charles	Cusumano
+Lori	Daniels
+Philip	Goodman
+Niall	Herity
+Patrick T.	Lee
+Thomas	Mätzsch
+John	Murnick
+James	Noble
+Adam	Paley
+Michael	Propper
+Mathias	Tschopp
+Jeffrey L.	Winters
