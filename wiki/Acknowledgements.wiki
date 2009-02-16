@@ -12,6 +12,7 @@ Thank you for suggestions!
  *	Niall	Herity
  * Seppo Hietanen
  *	Patrick T.	Lee
+ * Robert Lee
  *	Thomas	Mätzsch
  *	John	Murnick
  *	James	Noble
