@@ -2,21 +2,22 @@
 Thank you for suggestions!
 
 = Acknowledgements =
- *	Robert	Black
- *	Andrea	Bersano
- *	Daniel	Blanchard
- *	Russell	Brunet
- *	Charles	Cusumano
- *	Lori	Daniels
- *	Philip	Goodman
- *	Niall	Herity
+ * Robert Black
+ * Andrea Bersano
+ * Daniel Blanchard
+ * Russell Brunet
+ * Charles Cusumano
+ * Lori Daniels
+ * Philip Goodman
+ * Niall Herity
  * Seppo Hietanen
- *	Patrick T.	Lee
+ * Patrick T. Lee
  * Robert Lee
- *	Thomas	Mätzsch
- *	John	Murnick
- *	James	Noble
- *	Adam	Paley
- *	Michael	Propper
- *	Mathias	Tschopp
- *	Jeffrey L.	Winters
+ * Thomas Mätzsch
+ * John Murnick
+ * James Noble
+ * Adam Paley
+ * Lorenz Pollack   
+ * Michael Propper
+ * Mathias Tschopp
+ * Jeffrey L. Winters
