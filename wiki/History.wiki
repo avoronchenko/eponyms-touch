@@ -4,6 +4,10 @@
 See a log of the more important events of this project.
 
 
+== March 2009 ==
+  * March 9: _Eponyms_ *1.1* (r43) is available in the iTunes Store
+
+
 == August 2008 ==
   * August 28: *Uploaded new eponyms*
   * August 17: *Uploaded new eponyms*, tap "Check for Eponym Updates" and then download the new eponyms
