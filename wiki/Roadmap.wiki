@@ -10,7 +10,17 @@ reasonable ones in possible future updates. The following list is always work in
 Note that _italic_ items are considered useful, but have to be further evaluated first. Items that have been ~~striked through~~ have been dropped *or* moved to another release. Please use the comment function to suggest other features.
 
 
-== 1.1 ==
+== 1.2 ==
+
+  * Option to disable the auto-rotate feature
+
+
+== x.x ==
+
+  * German translation (in the works!)
+
+
+== 1.1 (RELEASED) ==
 
   * Fulltext search (currently only the title is being searched) (r28)
   * Spelled-out category names (r23)
@@ -20,7 +30,3 @@ Note that _italic_ items are considered useful, but have to be further evaluated
   * MUCH better updater (r32)
   * Acknowledgments in the about pane (r32)
 
-
-== x.x ==
-
-  * _German translation_ (in the works!)
