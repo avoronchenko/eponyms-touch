@@ -14,6 +14,7 @@ Thank you for suggestions!
  * Patrick T. Lee
  * Robert Lee
  * Thomas Mätzsch
+ * Tom Kelly
  * John Murnick
  * James Noble
  * Adam Paley
