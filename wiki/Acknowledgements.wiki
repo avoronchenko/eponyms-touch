@@ -13,7 +13,7 @@ Thank you for suggestions!
  * Seppo Hietanen
  * Patrick T. Lee
  * Robert Lee
-* Jeffrey Leow
+ * Jeffrey Leow
  * Thomas Mätzsch
  * Tom Kelly
  * John Murnick
