@@ -23,3 +23,4 @@ Thank you for suggestions!
  * Neale Thornton
  * Mathias Tschopp
  * Jeffrey L. Winters
+ * Kerry Yancy
