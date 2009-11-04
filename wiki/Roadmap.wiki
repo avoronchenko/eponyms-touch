@@ -13,6 +13,7 @@ Note that _italic_ items are considered useful, but have to be further evaluated
 == 1.2 ==
 
   * Option to disable the auto-rotate feature
+  * Diacritic sorting and searching
 
 
 == x.x ==
@@ -29,4 +30,3 @@ Note that _italic_ items are considered useful, but have to be further evaluated
   * Monthly auto-check for new eponyms (r23)
   * MUCH better updater (r32)
   * Acknowledgments in the about pane (r32)
-
