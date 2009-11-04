@@ -19,3 +19,4 @@ You might want to take a look at the [Main Wiki] and the [Roadmap]. For things l
 http://eponyms-touch.googlecode.com/files/Screenshot_List_1.2.png
 http://eponyms-touch.googlecode.com/files/Screenshot_Search_1.2.png
 http://eponyms-touch.googlecode.com/files/Screenshot_Eponym_1.2.png
+http://eponyms-touch.googlecode.com/files/Screenshot_Eponym2_1.2.png
