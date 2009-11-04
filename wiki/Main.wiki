@@ -16,6 +16,6 @@ You might want to take a look at the [Main Wiki] and the [Roadmap]. For things l
 
 
 == Screenshots ==
-http://eponyms-touch.googlecode.com/files/Screenshot_rc1_list.png
-http://eponyms-touch.googlecode.com/files/Screenshot_rc1_search.png
-http://eponyms-touch.googlecode.com/files/Screenshot_rc1_eponym.png
+http://eponyms-touch.googlecode.com/files/Screenshot_List_1.2.png
+http://eponyms-touch.googlecode.com/files/Screenshot_Search_1.2.png
+http://eponyms-touch.googlecode.com/files/Screenshot_Eponym_1.2.png
