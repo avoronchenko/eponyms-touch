@@ -12,8 +12,9 @@ Note that _italic_ items are considered useful, but have to be further evaluated
 
 == 1.2 ==
 
-  * Option to disable the auto-rotate feature
-  * Diacritic sorting and searching
+  * Option to disable the auto-rotate feature (r52)
+  * Diacritic sorting and searching (r52)
+  * Learning mode (r62)
 
 
 == x.x ==
