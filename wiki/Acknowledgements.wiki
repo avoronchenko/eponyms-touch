@@ -24,5 +24,6 @@ Thank you for suggestions!
  * Leland Smith
  * Neale Thornton
  * Mathias Tschopp
+ * Filipe Villa Verde
  * Jeffrey L. Winters
  * Kerry Yancy
