@@ -23,9 +23,9 @@ Thank you for suggestions!
  * Michael Propper
  * Gloria Saavedra
  * Leland Smith
+ * Brian D. Soriano
  * Neale Thornton
  * Mathias Tschopp
  * Filipe Villa Verde
  * Jeffrey L. Winters
  * Kerry Yancy
- * Brian D. Soriano
