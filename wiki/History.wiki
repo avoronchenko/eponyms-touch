@@ -4,6 +4,9 @@
 See a log of the more important events of this project.
 
 
+== 2010 ==
+  * July 6: _Eponyms_ *1.3* (r80) submitted
+
 == 2009 ==
   * December 4: _Eponyms_ *1.2* (r65) is available in the iTunes Store
   * November 24: _Eponyms_ *1.2* (r65) submitted
