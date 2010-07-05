@@ -10,16 +10,23 @@ reasonable ones in possible future updates. The following list is always work in
 Note that _italic_ items are considered useful, but have to be further evaluated first. Items that have been ~~striked through~~ have been dropped *or* moved to another release. Please use the comment function to suggest other features.
 
 
-== 1.2 ==
+== x.x ==
+
+  * German translation (in the works!)
+
+
+== 1.3 (SUBMITTED) ==
+
+  * iPad version (r76)
+  * iOS 4 support (r76)
+  * Hi-Res display (Retina Display) support (r76)
+
+
+== 1.2 (RELEASED) ==
 
   * Option to disable the auto-rotate feature (r52)
   * Diacritic sorting and searching (r52)
   * Learning mode (r62)
-
-
-== x.x ==
-
-  * German translation (in the works!)
 
 
 == 1.1 (RELEASED) ==
