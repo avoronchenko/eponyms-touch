@@ -19,6 +19,7 @@ Thank you for suggestions!
  * John Murnick
  * James Noble
  * Adam Paley
+ * Christian Pettker
  * Lorenz Pollack   
  * Michael Propper
  * Kyle Rove
