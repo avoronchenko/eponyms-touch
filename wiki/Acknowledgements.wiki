@@ -17,6 +17,7 @@ Thank you for suggestions!
  * Thomas Mätzsch
  * Tom Kelly
  * John Murnick
+ * Sathiji Nageshwaran
  * James Noble
  * Adam Paley
  * Christian Pettker
