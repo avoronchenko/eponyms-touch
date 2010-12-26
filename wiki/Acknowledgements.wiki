@@ -23,7 +23,7 @@ Thank you for suggestions!
  * Christian Pettker
  * Lorenz Pollack   
  * Michael Propper
- * P. Rizek
+ * Phil Rizek
  * Kyle Rove
  * Gloria Saavedra
  * Leland Smith
@@ -34,4 +34,4 @@ Thank you for suggestions!
  * Jeffrey L. Winters
  * Kerry Yancy
  * Emily Yee
- * Phil Rizek
+ * John Ziegler
