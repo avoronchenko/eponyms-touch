@@ -5,6 +5,7 @@ See a log of the more important events of this project.
 
 
 == 2011 ==
+  * January 13: _Eponyms_ *1.3.1* (r94) is available in the iTunes Store
   * January 12: _Eponyms_ *1.3.1* (r94) submitted
   * January 12: *Uploaded new eponyms*
 
