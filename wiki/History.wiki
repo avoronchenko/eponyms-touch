@@ -3,6 +3,8 @@
 
 See a log of the more important events of this project.
 
+== 2012 ==
+  * September 30: We have moved over to [https://github.com/p2/eponyms-touch GitHub], this page will *NOT* be updated any more
 
 == 2011 ==
   * January 13: _Eponyms_ *1.3.1* (r94) is available in the iTunes Store
