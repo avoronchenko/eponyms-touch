@@ -1,6 +1,14 @@
 #summary The Main Page
 #labels Featured
 
+= Moving to [https://github.com/p2/eponyms-touch GitHub] =
+
+We're moving the content of this site over to [https://github.com/p2/eponyms-touch GitHub], please file issues and requests there!
+
+----
+
+_old content_
+
 = Eponyms =
 
 This Application brings the beautiful eponym database from _Andrew J. Yee_ (http://www.eponyms.net/) to your iPhone or iPod touch.
